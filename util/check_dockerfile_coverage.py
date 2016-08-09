@@ -51,6 +51,7 @@ def arg_parse():
 
 if __name__ == '__main__':
 
+
     args = arg_parse()
 
     # configure logging
